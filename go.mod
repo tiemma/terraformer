@@ -12,7 +12,6 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.3.1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5 // indirect
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.3+incompatible
 	github.com/aws/aws-sdk-go v1.26.5 // indirect
 	github.com/aws/aws-sdk-go-v2 v0.18.0
@@ -24,7 +23,7 @@ require (
 	github.com/dollarshaveclub/new-relic-synthetics-go v0.0.0-20170605224734-4dc3dd6ae884
 	github.com/fastly/go-fastly v1.3.0
 	github.com/go-resty/resty v0.0.0-00010101000000-000000000000 // indirect
-	github.com/gogo/protobuf v1.3.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/google/go-github/v25 v25.1.3
 	github.com/google/jsonapi v0.0.0-20181016150055-d0428f63eb51 // indirect
@@ -64,9 +63,7 @@ require (
 	github.com/zorkian/go-datadog-api v2.25.0+incompatible
 	go.opencensus.io v0.22.2 // indirect
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
-	golang.org/x/sys v0.0.0-20191218084908-4a24b4065292 // indirect
-	golang.org/x/text v0.3.2
-	golang.org/x/tools v0.0.0-20191218225520-84f0c7cf60ea // indirect
+	golang.org/x/text v0.3.3
 	gonum.org/v1/gonum v0.6.1
 	google.golang.org/api v0.15.0
 	google.golang.org/appengine v1.6.5 // indirect
