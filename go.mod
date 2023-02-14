@@ -12,9 +12,8 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.3.1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5 // indirect
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.3+incompatible
-	github.com/aws/aws-sdk-go v1.26.5 // indirect
+	github.com/aws/aws-sdk-go v1.34.0 // indirect
 	github.com/aws/aws-sdk-go-v2 v0.18.0
 	github.com/bmatcuk/doublestar v1.2.2 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
@@ -43,7 +42,7 @@ require (
 	github.com/heroku/heroku-go/v5 v5.1.0
 	github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334
 	github.com/imdario/mergo v0.3.8 // indirect
-	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
+	github.com/jmespath/go-jmespath v0.3.0
 	github.com/jonboydell/logzio_client v1.2.0
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
 	github.com/labd/commercetools-go-sdk v0.0.0-20190722144546-80b2ca71bd4d
@@ -52,7 +51,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
 	github.com/mrparkers/terraform-provider-keycloak v0.0.0-20191218161228-a467c7185cbc
 	github.com/paultyng/go-newrelic v3.1.0+incompatible
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/posener/complete v1.2.3 // indirect
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
