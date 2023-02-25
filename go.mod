@@ -12,7 +12,6 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.3.1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5 // indirect
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.3+incompatible
 	github.com/aws/aws-sdk-go v1.26.5 // indirect
 	github.com/aws/aws-sdk-go-v2 v0.18.0
@@ -64,7 +63,7 @@ require (
 	github.com/zorkian/go-datadog-api v2.25.0+incompatible
 	go.opencensus.io v0.22.2 // indirect
 	golang.org/x/oauth2 v0.0.0-20191202225959-858c2ad4c8b6
-	golang.org/x/sys v0.0.0-20191218084908-4a24b4065292 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/text v0.3.2
 	golang.org/x/tools v0.0.0-20191218225520-84f0c7cf60ea // indirect
 	gonum.org/v1/gonum v0.6.1
