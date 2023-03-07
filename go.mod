@@ -12,7 +12,6 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.3.1 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
-	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5 // indirect
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.3+incompatible
 	github.com/aws/aws-sdk-go v1.26.5 // indirect
 	github.com/aws/aws-sdk-go-v2 v0.18.0
@@ -57,7 +56,7 @@ require (
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
-	github.com/ulikunitz/xz v0.5.6 // indirect
+	github.com/ulikunitz/xz v0.5.8 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	github.com/vultr/govultr v0.1.7
 	github.com/zclconf/go-cty v1.2.0
